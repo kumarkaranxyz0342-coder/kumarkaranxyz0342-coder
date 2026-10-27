@@ -10,11 +10,11 @@ I build web applications with a focus on clean interfaces, reliable backend syst
 
 ## Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript
+**Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
 
-**Backend:** Node.js, Python
+**Backend:**Node.js, Express.js, Django, Flask, FastAPI
 
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git, GitHub, VS Code, Postman, Docker
 
 ## Featured Project
 
