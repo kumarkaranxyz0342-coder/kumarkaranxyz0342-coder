@@ -12,7 +12,7 @@ I build web applications with a focus on clean interfaces, reliable backend syst
 
 **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
 
-**Backend:**Node.js, Express.js, Django, Flask, FastAPI
+**Backend:** Node.js, Express.js, Django, Flask, FastAPI
 
 **Tools:** Git, GitHub, VS Code, Postman, Docker
 
